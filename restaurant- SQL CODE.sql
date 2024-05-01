@@ -1,4 +1,6 @@
-
+-- Code used for the Project and relavent questions 
+-- What are the least and most expensive items on the menu?
+-- Most expensive item
 SELECT
     item_name as most_expensive_item,
     price 
